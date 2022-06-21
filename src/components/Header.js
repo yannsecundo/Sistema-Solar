@@ -2,7 +2,13 @@ import React from 'react';
 
 class Header extends React.Component {
   render() {
-    return <h1> Meu Header </h1>;
+    return (
+      <>
+        <header>Sistema Solar</header>
+        <h1> Meu h1 </h1>
+
+      </>
+    );
   }
 }
 
