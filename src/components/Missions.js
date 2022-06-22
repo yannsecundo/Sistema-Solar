@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Title from './Title';
-// test
+// tes
 
 export default class Missions extends Component {
   render() {
